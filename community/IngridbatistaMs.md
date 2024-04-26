@@ -14,4 +14,4 @@ Olá! Sou a Ingrid, sou estudante iniciando no curso tecnico em informática e s
 ## GitHub Status
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IngridbatistaMs&layout=compact&bg_color=836FFF&border_color=FFF&title_color=FFF&text_color=FFF)
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridBatistaMS&repo=dio-lab-open-source&bg_color=836fff&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/IngridbatistaMs/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridBatistaMs&repo=dio-lab-open-source&bg_color=836fff&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/IngridbatistaMs/dio-lab-open-source)
